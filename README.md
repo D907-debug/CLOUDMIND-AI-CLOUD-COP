@@ -2274,13 +2274,16 @@ python frontend/monitor_dashboard.py
 - Python 3.10+  
 - JSON Rule Engine  
 - CLI + Dashboard  
-- Event Logging  
+- Event Logging
+- Web ui(stream lit)
+- Uvicorn
+- Fast api
 
 
 ## 🛠️ Future Enhancements
-- Web UI (Streamlit/React)  
 - Cloud provider integration (AWS/GCP/Azure)  
-- ML anomaly detection  
+- ML anomaly detection
+- Ml risk prediction
 - Notification system  
 
 
